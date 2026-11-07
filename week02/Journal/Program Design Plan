@@ -1,0 +1,4 @@
+Think of other problems that keep people from writing in their journal and address one of those.
+Save other information in the journal entry.
+Improve the process of saving and loading to save as a .csv file that could be opened in Excel (make sure to account for quotation marks and commas correctly in your content.
+Save or load your document to a database or use a different library or format such as JSON for storage.
